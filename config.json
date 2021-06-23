@@ -1,0 +1,17 @@
+{
+
+"settings": {
+    "token": "",
+    "prefix": "",
+    "voiceid": "",
+    "status": "",
+    "owner": ""
+},
+    
+"id": {
+    "member": "",
+    "unregister": "",
+    "registerchannel": "",
+    "authorized": "",
+    "log": ""
+}}
